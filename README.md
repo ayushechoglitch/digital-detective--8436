@@ -50,3 +50,6 @@ This assignment connects concepts that are often taught separately. I learned ho
 
 ## Work and commits
 The assignment requires each mission to be documented and committed separately. Add the actual commit hash/status after pushing each mission. Do not mark a mission as pushed until it is visible on GitHub.
+
+## My Learning
+I learned how IPOS describes the flow of information through a computer. I practised using Terminal commands to inspect and manage files. I also learned how Git staging and commits help track project changes and enable safe collaboration through branches and pull requests.
