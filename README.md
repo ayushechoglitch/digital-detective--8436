@@ -58,3 +58,6 @@ Enter any positive decimal integer when prompted to see its formatted binary (`0
 
 ## Learning Log & Progress Note
 Each mission is verified and committed sequentially to maintain an honest, chronological project timeline. All findings reflect direct observations made on my local system.
+
+## My Learning
+In this project, I gained practical hands-on experience across multiple layers of computing: from how the CPU and OS manage hardware resources and files, to navigating efficiently in the Terminal. I also developed a clear mental model of how version control with Git allows safe development through staging, commits, isolated branches, and Pull Requests.
