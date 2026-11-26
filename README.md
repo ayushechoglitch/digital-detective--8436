@@ -22,14 +22,14 @@ Every mission is isolated in its own dedicated directory with relevant explanati
 | Mission | Topic | Status | Folder / Report |
 |:---:|---|:---:|---|
 | **00** | GitHub Workspace Setup | Complete | [mission-00-setup](mission-00-setup/README.md) |
-| **01** | Computer Basics & IPOS Model | In Progress | [mission-01-computer-basics](mission-01-computer-basics/README.md) |
-| **02** | Terminal & File Management | In Progress | [mission-02-terminal](mission-02-terminal/README.md) |
-| **03** | Operating System, Processes & Permissions | In Progress | [mission-03-operating-system](mission-03-operating-system/README.md) |
-| **04** | How Programs Run: Compilers vs Interpreters | In Progress | [mission-04-programs](mission-04-programs/README.md) |
-| **05** | Number Systems & Data Representation | In Progress | [mission-05-numbers-data](mission-05-numbers-data/README.md) |
-| **06** | Git & GitHub Collaboration Workflow | In Progress | [mission-06-git-github](mission-06-git-github/README.md) |
-| **07** | Computer Networks & Internet Architecture | In Progress | [mission-07-networking](mission-07-networking/README.md) |
-| **08** | Final Verification & Submission Report | In Progress | [mission-08-final-report](mission-08-final-report/README.md) |
+| **01** | Computer Basics & IPOS Model | Complete | [mission-01-computer-basics](mission-01-computer-basics/README.md) |
+| **02** | Terminal & File Management | Complete | [mission-02-terminal](mission-02-terminal/README.md) |
+| **03** | Operating System, Processes & Permissions | Complete | [mission-03-operating-system](mission-03-operating-system/README.md) |
+| **04** | How Programs Run: Compilers vs Interpreters | Complete | [mission-04-programs](mission-04-programs/README.md) |
+| **05** | Number Systems & Data Representation | Complete | [mission-05-numbers-data](mission-05-numbers-data/README.md) |
+| **06** | Git & GitHub Collaboration Workflow | Complete | [mission-06-git-github](mission-06-git-github/README.md) |
+| **07** | Computer Networks & Internet Architecture | Complete | [mission-07-networking](mission-07-networking/README.md) |
+| **08** | Final Verification & Submission Report | Complete | [mission-08-final-report](mission-08-final-report/README.md) |
 
 ---
 
