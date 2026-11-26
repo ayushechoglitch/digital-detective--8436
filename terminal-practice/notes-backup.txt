@@ -1,0 +1,2 @@
+First line of terminal practice notes
+Second line appended safely
